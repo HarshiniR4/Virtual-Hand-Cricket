@@ -9,6 +9,9 @@ A virtual Hand Cricket gmae impleneted using OpenCV and Machine learning technol
 - math
 - Flask
 
+![alt text](https://github.com/HarshiniR4/Virtual-Hand-Cricket/blob/main/screenshots/game_1.png)
+
+
 ## Further Updates:
 - Create a working Flask API for the model and deploy the same
 
