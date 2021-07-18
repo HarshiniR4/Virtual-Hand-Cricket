@@ -1,7 +1,7 @@
 # Virtual-Hand-Cricket
 
 ## Overview:
-A virtual Hand Cricket gmae impleneted using OpenCV and Machine learning technologies to enable plyers to relive the game virtually with a bot.
+A virtual Hand Cricket game implemented using OpenCV and Machine learning technologies to enable plyers to relive the game virtually with a bot.
 
 ## Libraries used:
 - opencv
